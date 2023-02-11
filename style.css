@@ -544,6 +544,7 @@ html {
     }
     header .text {
         order: 2;
+        align-items: center;
     }
     header .img {
         order: 0;
